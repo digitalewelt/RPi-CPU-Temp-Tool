@@ -20,7 +20,7 @@ i=0
 
 
 clear
-echo -e "\nDas CPU TEMPERATUR TOOL von digitalewelt.at\n###########################################\n\nWieviel Zeit soll zwischen den Messungen vergehen?"
+echo -e "\nDas CPU TEMPERATUR TOOL von digitalewelt.at\n###########################################\n\nWie viel Zeit soll zwischen den Messungen vergehen?"
 read -p "Sekunden: " delay
 
 echo -e "\nWie viele Messungen sollen gemacht werden?"
